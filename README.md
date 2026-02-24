@@ -8,8 +8,6 @@
 
 `97% cost reduction` | `3-tier routing` | `Real-time dashboard` | `PDF export`
 
-![Demo](./docs/demo.png)
-
 ---
 
 ## What It Does
